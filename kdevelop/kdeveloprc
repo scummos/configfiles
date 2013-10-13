@@ -1,0 +1,225 @@
+[ByteTableView]
+ColumnsWidth=32,32,32,70,40
+FixedFont=Monospace,8,-1,5,50,0,0,0,0,0
+Style=gtk+
+
+[CMakeBuildDirChooser]
+LastExtraArguments=
+
+[CodeGeneration]
+LastSelectedLicense=4
+LowerCaseFilenames=true
+
+[Colors]
+CurrentPalette=Forty Colors
+
+[Desktop Entry]
+DefaultProfile=darkshell.profile
+
+[Document ]
+Bookmarks=
+Encoding=UTF-8
+FoldedColumns=
+FoldedLines=
+Highlighting=Python
+Indentation Mode=python
+Mode=Python
+ReadWrite=true
+
+[DownloadDialog Settings]
+Height 900=544
+Width 1440=879
+
+[Environment Settings]
+Default Environment Group=default
+Group List=default
+
+[Environment Settings][default]
+USE_TILE=1
+
+[External Scripts]
+firstUse=false
+
+[External Scripts][script 0]
+command=g++ -o %b %f && ./%b
+errorMode=0
+inputMode=0
+name=quick compile
+outputMode=0
+saveMode=0
+shortcuts=
+
+[External Scripts][script 1]
+command=xdg-open "http://www.google.de/search?q=%s"
+errorMode=0
+inputMode=0
+name=google selection
+outputMode=0
+saveMode=0
+shortcuts=
+
+[External Scripts][script 2]
+command=sort
+errorMode=0
+inputMode=2
+name=sort selection
+outputMode=3
+saveMode=0
+shortcuts=
+
+[Favorite Profiles]
+Favorites=
+
+[KFileMetaPropsPlugin]
+Height 900=260
+Width 1440=277
+
+[KMimeTypeChooserDialog]
+size=600,500
+
+[KPropertiesDialog]
+Height 900=424
+Width 1440=453
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+Automatically Insert Closing Brackets=false
+BOM=false
+Backup Config Flags=1
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=python
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=0
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=1
+RemoveTrailingDyn=false
+ReplaceTabsDyn=true
+Search Dir Config Depth=3
+Show Spaces=true
+Show Tabs=true
+Smart Home=true
+Tab Handling=2
+Tab Width=4
+Word Wrap=false
+Word Wrap Column=80
+Wrap Cursor=true
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Print Settings][HeaderFooter]
+FooterBackground=211,211,211
+FooterBackgroundEnabled=false
+FooterEnabled=true
+FooterForeground=0,0,0
+FooterFormatCenter=
+FooterFormatLeft=
+FooterFormatRight=%U
+HeaderBackground=211,211,211
+HeaderBackgroundEnabled=false
+HeaderEnabled=true
+HeaderFooterFont=Ubuntu,8,-1,5,50,0,0,0,0,0
+HeaderForeground=0,0,0
+HeaderFormatCenter=%f
+HeaderFormatLeft=%y
+HeaderFormatRight=%p
+
+[Kate Print Settings][Layout]
+BackgroundColorEnabled=false
+BoxColor=invalid
+BoxEnabled=false
+BoxMargin=6
+BoxWidth=1
+ColorScheme=kdevelop - Printing
+
+[Kate Print Settings][Margins]
+bottom=0
+left=12.700000000006
+right=12.700000000006
+top=0
+
+[Kate Print Settings][Text]
+Legend=false
+LineNumbers=false
+
+[Kate Renderer Defaults]
+Schema=zenburn
+Show Indentation Lines=true
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Language Support]
+globalColorization=233
+localColorization=249
+
+[Main Window]
+Desktop 1024 768=0,20,1024,713
+Desktop 1440 900=1,26,1438,584
+Desktop 1920 1200=1441,20,1918,721
+
+[Notification Messages]
+AskOpenWithTextEditor=false
+Backup Failed Warning=false
+ShouldAskConfirmCommit=false
+kate_ignore_modonhd=false
+
+[Open File]
+Last Open File Directory=file:///home/sven/Projekte/register_images/
+
+[Open With Defaults]
+application/x-designer=designer.desktop
+
+[QtHelp Documentation]
+ghnsList=
+iconList=
+loadQtDocs=true
+nameList=
+pathList=
+
+[QuickOpen]
+SelectedItems=Files,Functions,Classes
+SelectedScopes=Currently Open,Project
+
+[UiSettings]
+BottomLeftCornerOwner=1
+TabBarVisibility=0
+
+[User Interface]
+Main Windows Count=1
+
+[User Interface][Main Window 0]
+currentArea=code
+
+[breakpoints]
+number=0
